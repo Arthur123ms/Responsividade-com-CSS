@@ -35,4 +35,10 @@ O objetivo é praticar **Media Queries**, **Flexbox** e **CSS Grid**, criando um
 
 ## 📁 Estrutura do projeto | Project structure  
 
-
+Responsividade-com-CSS/
+│
+├── index.html
+├── css/
+│ └── style.css
+└── assets/
+└── (imagens, ícones, etc.)
