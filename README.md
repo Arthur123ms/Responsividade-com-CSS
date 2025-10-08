@@ -1,2 +1,38 @@
-# Responsividade com CSS
-Projeto de um blog responsivo utilizando HTML e CSS juntamente com Media Queries criando assim uma responsividade para o site
+# 🌐 Responsividade com CSS  
+### A prática de design responsivo na construção de layouts modernos  
+### Responsive Design practice for modern layouts  
+
+---
+
+## 📖 Sobre o projeto | About the project  
+
+Este projeto demonstra como aplicar **técnicas de responsividade com CSS** para criar páginas que se adaptam a diferentes tamanhos de tela — de celulares a desktops.  
+O objetivo é praticar **Media Queries**, **Flexbox** e **CSS Grid**, criando uma estrutura limpa, fluida e moderna.  
+
+> This project demonstrates how to use **CSS responsiveness techniques** to build pages that adapt to various screen sizes — from mobile to desktop.  
+> It focuses on **Media Queries**, **Flexbox**, and **CSS Grid** to achieve a clean and adaptive design.
+
+---
+
+## 🧩 Tecnologias utilizadas | Technologies used  
+
+- **HTML5** — estrutura semântica da página  
+- **CSS3** — estilização e responsividade  
+- **Media Queries** — adaptação entre diferentes tamanhos de tela  
+- **Flexbox / Grid Layout** — controle flexível de layout  
+
+---
+
+## 🧠 Conceitos aplicados | Key concepts  
+
+- Mobile First Design  
+- Layout fluido  
+- Quebra de colunas com `@media`  
+- Tipografia e espaçamentos responsivos  
+- Organização modular de CSS  
+
+---
+
+## 📁 Estrutura do projeto | Project structure  
+
+
