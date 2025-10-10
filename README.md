@@ -68,10 +68,14 @@ Estruturação limpa em HTML e CSS
 Adaptação de layout entre dispositivos
 
 👨‍💻 Autor
+
 Arthur Magalhães
+
 📍 Estudante de Engenharia de Software
+
 💼 Foco em desenvolvimento Front-End
-🌐 GitHub
+
+🌐 [GitHub]("https://github.com/Arthur123ms")
 
 🏁 Status do projeto | Project status
 ✅ Finalizado — mas sempre aberto a melhorias!
