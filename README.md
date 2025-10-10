@@ -55,9 +55,6 @@ Abra o arquivo index.html em seu navegador.
 
 💡 Você também pode usar a extensão “Live Server” do VS Code para abrir o projeto localmente com atualização automática.
 
-🖼️ Exemplo visual | Visual example
-<p align="center"> <img src="https://github.com/Arthur123ms/Responsividade-com-CSS/blob/main/assets/preview.png" alt="Prévia do site" width="600px"> </p>
-(adicione uma imagem da tela do projeto em /assets/preview.png)
 
 📚 Aprendizados | Learnings
 Durante o desenvolvimento deste projeto, foram reforçados conceitos de:
