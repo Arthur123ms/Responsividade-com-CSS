@@ -14,14 +14,14 @@ phases:
       - npm run build
   post_build:
     commands: 
-      - acho BUild completed. Copyng file to S3...
-      - AWS cp dist s3://arthurms-front-end/ --recursive
+      - echo Build completed. Copying files to S3...
+      - aws s3 cp dist s3://arthurms-front-end/ --recursive
 
 atifacts:
   files:
     -'**/*'
   base-directory: dist
-  
+
 cache: 
   paths:
     - 'node_modules/**/*'
