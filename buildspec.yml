@@ -1,0 +1,28 @@
+Version: 0.2
+
+phases: 
+  install:
+    runtime-versions:
+      node: 20;
+    commands:
+      - echo Insalling despencies...
+      - npm install
+  build:
+    on-failure: ABORT
+    commands: 
+      - echo Building application...
+      - npm run build
+  post_build:
+    commands: 
+      - acho BUild completed. Copyng file to S3...
+      - AWS cp dist s3://arthurms-front-end/ --recursive
+
+atifacts:
+  files:
+    -'**/*'
+  base-directory: dist
+  
+cache: 
+  paths:
+    - 'node_modules/**/*'
+  
