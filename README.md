@@ -79,3 +79,5 @@ Arthur Magalhães
 
 🏁 Status do projeto | Project status
 ✅ Finalizado — mas sempre aberto a melhorias!
+
+#DNC
